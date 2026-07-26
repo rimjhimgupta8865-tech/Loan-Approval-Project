@@ -46,12 +46,10 @@ Conclusion
 
 The dataset was prepared for analysis by:
 
-* Checking dataset structure and data types
 * Identifying missing values
 * Handling inconsistent data
 * Checking duplicate records
 * Converting variables into suitable formats
-* Preparing the dataset for exploratory analysis
 
 ## 📊 Key Analysis Areas
 
