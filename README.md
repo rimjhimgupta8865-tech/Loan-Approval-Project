@@ -65,12 +65,6 @@ The dataset was prepared for analysis by:
 
 The project uses charts and graphs to understand relationships between applicant characteristics and loan approval outcomes.
 
-## 💡 Key Insights
-
-The analysis helped identify patterns between applicant financial characteristics, credit history, loan requirements, and approval outcomes.
-
-> Add your actual 4–6 findings from the notebook here.
-
 ## 📁 Project Structure
 
 ```text
